@@ -1,3 +1,23 @@
+# My edits
+*.DS_Store
+
+/src/Actuarial loss prediction/sample_submission.csv
+/src/Actuarial loss prediction/test.csv
+/src/Actuarial loss prediction/train.csv
+
+/src/Allstate Claims Severity/sample_submission.csv
+/src/Allstate Claims Severity/test.csv
+/src/Allstate Claims Severity/train.csv
+
+/src/Homesite Quote Conversion/sample_submission.csv
+/src/Homesite Quote Conversion/test.csv
+/src/Homesite Quote Conversion/train.csv
+
+/src/Prudential Life Insurance Assessment/sample_submission.csv
+/src/Prudential Life Insurance Assessment/train.csv
+/src/Prudential Life Insurance Assessment/test.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
