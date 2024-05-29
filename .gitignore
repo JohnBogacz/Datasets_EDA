@@ -8,6 +8,8 @@
 /src/Allstate Claims Severity/sample_submission.csv
 /src/Allstate Claims Severity/test.csv
 /src/Allstate Claims Severity/train.csv
+/src/Allstate Claims Severity/code/v1/train_v2.csv
+/src/Allstate Claims Severity/code/v2/train_v2.csv
 
 /src/Homesite Quote Conversion/sample_submission.csv
 /src/Homesite Quote Conversion/test.csv
