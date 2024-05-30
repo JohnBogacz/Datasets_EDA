@@ -11,3 +11,6 @@ statsmodels==0.14.2
 xgboost==2.0.3
 nbformat==5.10.4
 prettytable==3.10.0
+tweedie==0.0.9
+PyDesmos==0.1.3
+sympy==1.12
